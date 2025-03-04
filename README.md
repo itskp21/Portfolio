@@ -1,23 +1,6 @@
-<div align="center">
-  <br />
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="public/assets/devfolio-banner.png" alt="Devfolio Banner">
-  </a>
-  <br />
-
-  <div>
-    <a href="https://nextjs.org/" target="_blank">
-      <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    </a>
-    <a href="https://www.framer.com/motion/" target="_blank">
-      <img src="https://img.shields.io/badge/-Framer-black?style=for-the-badge&logoColor=white&logo=framer&color=0055FF" alt="framer" />
-    </a>
-    <a href="https://tailwindcss.com/docs" target="_blank">
-      <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    </a>
   </div>
 
-  <h3 align="center">Kush Prakhar's Devfolio</h3>
+  <h3 align="center">Kush Prakhar's Portfolio</h3>
   <p align="center">A streamlined, modern, and developer-friendly portfolio to showcase my AI/ML projects and technical expertise.</p>
 </div>
 
@@ -64,8 +47,8 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/devfolio.git
-cd devfolio
+git clone https://github.com/itskp21/portfolio.git
+cd portfolio
 ```
 
 ### Install Dependencies
