@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <a href="https://devfolio-atzin.vercel.app/" target="_blank">
+  <a href="https://your-portfolio-link.com" target="_blank">
     <img src="public/assets/devfolio-banner.png" alt="Devfolio Banner">
   </a>
   <br />
@@ -17,8 +17,8 @@
     </a>
   </div>
 
-  <h3 align="center">Atzin Escandia's Devfolio</h3>
-  <p align="center">A super easy, simple, and neon purple (pretty me) ready to create your developer portfolio. Because who has time for complicated setups?</p>
+  <h3 align="center">Kush Prakhar's Devfolio</h3>
+  <p align="center">A streamlined, modern, and developer-friendly portfolio to showcase my AI/ML projects and technical expertise.</p>
 </div>
 
 ## 📋 Table of Contents
@@ -27,59 +27,48 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🛠️ [Features](#features)
 4. 🚀 [Getting Started](#getting-started)
-5. 🌟 [Portfolio Inspiration](#portfolio-inspiration)
+5. 🌟 [Highlighted Projects](#highlighted-projects)
 6. 📝 [More Resources](#more-resources)
 
 ## 💡 Why This Project?
 
-Hey there, dev! 👋
+Hey there! 👋 I'm Kush Prakhar, a passionate AI/ML developer. I built this portfolio to serve as a hub for my research and projects in deep learning, computer vision, and NLP.
 
-You know that feeling when you're ready to show off your skills but get overwhelmed trying to build the *perfect* portfolio? I’ve been there. You start searching for the right design, the best tools, the *ideal* way to present your awesomeness... only to get stuck in a rabbit hole.
-
-So, I thought: **why not create something that makes this super simple, fast, and, dare I say, fun?** This portfolio template is for developers who want to get their work online without spending days tweaking code and layouts.
+This portfolio is designed for developers who want a fast and stylish way to showcase their work without spending weeks on setup. If you're like me and love working on impactful AI projects, this is for you! 🚀
 
 ## ⚙️ Tech Stack
 
-- **Next.js**: Because who doesn’t love fast, production-ready sites that *just work*?
-- **Framer Motion**: Transform your portfolio into an interactive experience with smooth animations.
-- **TailwindCSS**: The magic wand for styling without the headache.
-- **TypeScript**: Because you deserve to code with confidence and zero guesswork.
+- **Next.js**: Blazing-fast framework for building production-ready web apps.
+- **Framer Motion**: For smooth animations and a polished UI.
+- **TailwindCSS**: Rapid styling with a utility-first approach.
+- **TypeScript**: Ensuring type safety and maintainability.
 
 ## 🛠️ Features
 
-✨ **Responsive Design**: Your portfolio will look great on any device—bye-bye, broken layouts!  
-
-🎨 **Clean & Stylish UI**: Simple yet stunning—designed to let your work take center stage. No frills, just results.
-
-💡 **Customization Made Easy**: Want to change colors, fonts, or content? Do it without pulling your hair out. Seriously.
-
-🎬 **Smooth Animations**: Thanks to Framer Motion, your portfolio will glide and flip like a pro.
-
-🔧 **Developer Friendly**: Built with devs in mind, using the best tools and practices. You'll feel right at home.
-
-💌 **Easy Contact Section**: Let potential employers, collaborators, or even fans reach out. No need to complicate things!
+✨ **Responsive Design** – Looks great on all screen sizes.  
+🎨 **Clean & Modern UI** – Focused on minimalism and efficiency.  
+💡 **Easy Customization** – Modify colors, fonts, and content with ease.  
+🎬 **Smooth Animations** – Powered by Framer Motion for an engaging experience.  
+📂 **Project Showcase** – Highlight your best projects with detailed descriptions and links.  
+💌 **Contact Section** – Let recruiters, collaborators, and tech enthusiasts reach out.  
 
 ## 🚀 Getting Started
 
-Ready to launch your portfolio? Follow these simple steps, and you’ll be live in a flash!
-
 ### Prerequisites
 
-Before you get started, make sure you have:
+Ensure you have the following installed:
 
-- [Git](https://git-scm.com/) installed on your machine.
-- [Node.js](https://nodejs.org/) (and Yarn) to manage dependencies.
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/) (Recommended: LTS version)
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/atzinescandia/atzin-escandia-devfolio.git
-cd atzin-escandia-devfolio
+git clone https://github.com/your-username/devfolio.git
+cd devfolio
 ```
 
 ### Install Dependencies
-
-Run this command to install all the necessary dependencies:
 
 ```bash
 yarn install
@@ -87,27 +76,41 @@ yarn install
 
 ### Run the Development Server
 
-Once you’re all set, fire up the server with:
-
 ```bash
 yarn dev
 ```
 
-Now, head to [http://localhost:3000](http://localhost:3000) in your browser and *boom*, your portfolio is ready to shine!
+Visit [http://localhost:3000](http://localhost:3000) to see your portfolio live!
 
-## 🌟 Portfolio Inspiration
+## 🌟 Highlighted Projects
 
-Looking for some inspo? Check out these amazing portfolios made using this template!
+### 🎨 ColorGANify ([GitHub](https://github.com/itskp21/ColorGANify))
+- Developed an AI-powered tool to colorize black-and-white images with up to 85% accuracy.
+- Integrated Pix2Pix and ESRGAN for high-quality results with 4x resolution enhancement.
+- Achieved real-time processing in under 2 seconds per image.
 
-- [Atzin Escandia Portfolio](https://theplumup.com) - My personal site, where I show off my journey as a web dev and showcase my projects.
-- [The Plum Up Purple Neon](https://vscodethemes.com/e/atzinescandia.theplumup/theplumup) - A collection of portfolios by talented devs around the globe.
+### 🎶 TuneWeaver.AI ([GitHub](https://github.com/itskp21/TuneWeaver.AI) | [Sample](https://soundcloud.com/kush-prakhar/ai-generated-melody-on-folk-songs))
+- Built an LSTM-based melody generation system trained on 300+ symbolic music files.
+- Designed a preprocessing pipeline supporting 8 note durations and transpositions.
+- Improved training efficiency by 20% with batch optimization and learning rate tuning.
+
+### 🔬 Research: Pruning of ViTs ([GitHub](https://github.com/itskp21/trailmet_sol))
+- Optimized a Vision Transformer (ViT) for CIFAR-100 classification, achieving 82% accuracy.
+- Reduced model parameters by 15% using L1 regularization and network slimming.
+- Maintained model accuracy while reducing computational cost by 20%.
 
 ## 📝 More Resources
 
-- [Next.js Docs](https://nextjs.org/docs) - For when you need to level up your Next.js skills.
-- [Framer Motion](https://www.framer.com/motion/) - Bring your animations to life!
-- [TailwindCSS Docs](https://tailwindcss.com/docs) - The most efficient way to style your projects without the fuss.
+- [Next.js Docs](https://nextjs.org/docs) – Build high-performance applications.
+- [Framer Motion](https://www.framer.com/motion/) – Enhance animations effortlessly.
+- [TailwindCSS Docs](https://tailwindcss.com/docs) – Style without the hassle.
 
 ---
 
-Feel free to fork this repo, tweak it to your heart's content, and start showing off your work! If you’ve got any questions or want to contribute, don’t hesitate to open an issue or submit a pull request. I’m always up for some collaboration! 🎉
+### 🚀 Connect with Me
+
+📧 Email: [itskp2106@gmail.com](mailto:itskp2106@gmail.com)  
+🐙 GitHub: [itskp21](https://github.com/itskp21)  
+💼 LinkedIn: [Kush Prakhar](https://www.linkedin.com/in/kush-prakhar/)  
+
+Feel free to fork this project, contribute, or just use it to power your own portfolio. Let’s build something awesome together! 🎉
